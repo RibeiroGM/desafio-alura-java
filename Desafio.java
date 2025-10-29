@@ -4,7 +4,7 @@ public class Desafio {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
 
-        String nome = "Stephanie Santos";
+        String nome = "Alisson Ribeiro";
         String tipoConta = "Corrente";
         double saldo = 2500.00;
 
@@ -85,4 +85,5 @@ public class Desafio {
         }
 
     }
+
 
